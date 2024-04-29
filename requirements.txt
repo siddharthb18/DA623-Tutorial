@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scipy
+librosa
+torch
+torchaudio
+transformers
+ipywidgets
+IPython
