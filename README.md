@@ -5,6 +5,8 @@ The STFT.ipynb is the final submission for this project. Please run the installa
 
 All the sound samples used are in the folder titled with the same name. The three .wav files in the current directory are created from running the script and not needed as such.
 
+If the interactive widgets and the spectrograms are not displayed on the github site or if 'Unable to render code block' is observed, kindly clone/download the github repository to view the jupyter notebook file. 
+
 ## Installation
 To install the dependencies for this project, run the following command in your terminal:
 
