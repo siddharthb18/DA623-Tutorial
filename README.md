@@ -1,6 +1,8 @@
 # DA 623 Tutorial Submission
 ## Short-time Fourier Transform and Spectrogram Analysis
 
+The STFT.ipynb is the final submission for this project. Please run the installation script after reviewing the requirements.txt file to ensure that all necessary dependencies are met.
+
 ## Installation
 To install the dependencies for this project, run the following command in your terminal:
 
