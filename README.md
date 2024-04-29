@@ -3,6 +3,8 @@
 
 The STFT.ipynb is the final submission for this project. Please run the installation script after reviewing the requirements.txt file to ensure that all necessary dependencies are met.
 
+All the sound samples used are in the folder titled with the same name. The three .wav files in the current directory are created from running the script and not needed as such.
+
 ## Installation
 To install the dependencies for this project, run the following command in your terminal:
 
